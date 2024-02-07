@@ -13,11 +13,15 @@ class People extend BE {
 
 
 
-![Test figure](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---Dzuk7Z4fDWXRxaS_mBaYs---figure---c3BLdjtDPBWp_36YQFgYnw.png "Test figure")
+![Test figure](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---bzoa3p1d2sSAPVBldFOI5---figure---c3BLdjtDPBWp_36YQFgYnw.png "Test figure")
 
 
 
 [﻿Hariom Yadav: ](https://app.eraser.io/workspace/n2msnupG9nrnvgt66IvL) 
+
+
+
+![Break down the system into components](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---N911VsFq87XUa-UUfohHK---figure---F04wqfMYfjhKLQacecWWww.png "Break down the system into components")
 
 
 
