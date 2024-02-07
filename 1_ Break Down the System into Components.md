@@ -18,11 +18,11 @@
 
 ---
 
-![Component to component HL view 2](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---uTBvQZvnjYVGExiRn66X8---figure---oFNwdsr3n0vFKUd9gdB58A.png "Component to component HL view 2")
+![Component to component HL view 2](undefined "Component to component HL view 2")
 
 
 
-![Example 1](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---HrVNeksFG6TJJU0f0BVUs---figure---Lftp0npW8UyktwK65XRw7g.png "Example 1")
+![Example 1](undefined "Example 1")
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-
+..
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/4V79kdh82LGqWONFLrwu --->
