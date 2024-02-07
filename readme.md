@@ -6,7 +6,7 @@
 
 
 
-![Break down the system into components](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---UuF8q-_9cvWXmbBza8XKB---figure---F04wqfMYfjhKLQacecWWww.png "Break down the system into components")
+![Break down the system into components](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---KH1rceLYkd8BKtz_HGSg8---figure---F04wqfMYfjhKLQacecWWww.png "Break down the system into components")
 
 
 
@@ -14,13 +14,13 @@
 
 
 
-![Example of component to component communication](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---OVCleE4Q0xrSrQnrH33ma---figure---oaHNNkMtjrMoTZ5yZ0hwEQ.png "Example of component to component communication")
+![Example of component to component communication](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---B_RUfIRVVgwzDKDKrn3MJ---figure---oaHNNkMtjrMoTZ5yZ0hwEQ.png "Example of component to component communication")
 
 ---
 
 
 
-![Component to component HL view](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---ULxeOj-q2YokNcxUKX8yn---figure---IcsMnTiUy6ZUvNwarH2LTQ.png "Component to component HL view")
+![Component to component HL view](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---D9LRbrEBv0ZbfaNRdfSV0---figure---IcsMnTiUy6ZUvNwarH2LTQ.png "Component to component HL view")
 
 
 
@@ -30,31 +30,31 @@
 
 
 
-![Component to component HL view 2](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---Wtd5kN-gOra9Mw5uXXQhR---figure---JcOM2Le8_qsJvNESkj4NLg.png "Component to component HL view 2")
+![Component to component HL view 2](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---lM12EOGcxK64bogdAzf1l---figure---JcOM2Le8_qsJvNESkj4NLg.png "Component to component HL view 2")
 
 
 
 
 
-![Example 1](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---vLQDHwC45g_mBnPviTQ4n---figure---hXjkDIkWUplSyls4UCeXvQ.png "Example 1")
-
-
-
----
-
-
-
-![Example 2](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---JhkTFSb5J7NO1ycZZV6MU---figure---jV_Czuo1SEyVQH3PfVVkUA.png "Example 2")
+![Example 1](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---CRUwkkCDUvlRVt4IkCTV6---figure---hXjkDIkWUplSyls4UCeXvQ.png "Example 1")
 
 
 
 ---
 
-![Example 3](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---sl2RUu1181w-uqAYz-cl1---figure---sZmlx-plVc76n5G0caF3vg.png "Example 3")
+
+
+![Example 2](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---6t9oRRq8vbnATrp01l_Wr---figure---jV_Czuo1SEyVQH3PfVVkUA.png "Example 2")
+
+
 
 ---
 
-![Exmple 4](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---5kv8Q1EAdjpCHZtuebSXl---figure---oMGL-UTqTL1G6fFRhxa4Ig.png "Exmple 4")
+![Example 3](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---dOMYl5y56s-ZeqQfbOzIQ---figure---sZmlx-plVc76n5G0caF3vg.png "Example 3")
+
+---
+
+![Exmple 4](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---RcVRGfT3FrO7p4bByTKys---figure---oMGL-UTqTL1G6fFRhxa4Ig.png "Exmple 4")
 
 
 
