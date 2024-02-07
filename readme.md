@@ -12,4 +12,10 @@ class People extend BE {
 [﻿Test figure](https://app.eraser.io/workspace/0xGZZwX0ExTPrtfat6tL?elements=c3BLdjtDPBWp_36YQFgYnw) 
 
 
+
+![Test figure](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---zbIXBsAFS_B0kOqyEq4mv---figure---c3BLdjtDPBWp_36YQFgYnw.png "Test figure")
+
+
+
+
 <!--- Eraser file: https://app.eraser.io/workspace/0xGZZwX0ExTPrtfat6tL --->
