@@ -13,7 +13,7 @@ class People extend BE {
 
 
 
-![Test figure](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---zbIXBsAFS_B0kOqyEq4mv---figure---c3BLdjtDPBWp_36YQFgYnw.png "Test figure")
+![Test figure](/.eraser/0xGZZwX0ExTPrtfat6tL___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---rhW6jEz0YXkabe_A2_xb8---figure---c3BLdjtDPBWp_36YQFgYnw.png "Test figure")
 
 
 
