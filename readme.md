@@ -9,7 +9,7 @@ class People extend BE {
   
 }
 ```
-
+[﻿Test figure](https://app.eraser.io/workspace/0xGZZwX0ExTPrtfat6tL?elements=c3BLdjtDPBWp_36YQFgYnw) 
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/0xGZZwX0ExTPrtfat6tL --->
