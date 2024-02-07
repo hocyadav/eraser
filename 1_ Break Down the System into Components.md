@@ -6,11 +6,11 @@
 
 
 
-![Break down the system into components](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---x27D8QTbp1smxCxThHyXa---figure---4Hwa6ssBzALfQAo4gLwHPw.png "Break down the system into components")
+![Break down the system into components](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---6Nvpy2_NRAQciFbYIafFD---figure---4Hwa6ssBzALfQAo4gLwHPw.png "Break down the system into components")
 
 ---
 
-
+![Example of component to component communication_](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---cGqJIN2xWugzwDePTH9VB---figure---FRKWKTB68WhE7C2Kh1Qm0g.png "Example of component to component communication_")
 
 
 
