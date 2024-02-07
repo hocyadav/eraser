@@ -6,7 +6,7 @@
 
 
 
-[﻿Break down the system into components](https://app.eraser.io/workspace/4V79kdh82LGqWONFLrwu?elements=4Hwa6ssBzALfQAo4gLwHPw) 
+![Break down the system into components](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---x27D8QTbp1smxCxThHyXa---figure---4Hwa6ssBzALfQAo4gLwHPw.png "Break down the system into components")
 
 ---
 
