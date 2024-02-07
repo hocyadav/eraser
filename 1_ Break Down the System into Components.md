@@ -6,15 +6,15 @@
 
 
 
-![Break down the system into components](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---U2CX6yJXTfZ0AMNxLx0nR---figure---4Hwa6ssBzALfQAo4gLwHPw.png "Break down the system into components")
+![Break down the system into components](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---8KairgkhDRSdVnxFPPz4V---figure---4Hwa6ssBzALfQAo4gLwHPw.png "Break down the system into components")
 
 ---
 
-![Example of component to component communication_](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---zLYXjuLum8zUzbkceAD-3---figure---FRKWKTB68WhE7C2Kh1Qm0g.png "Example of component to component communication_")
+![Example of component to component communication_](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---QlJL9WrJxgx5jJONDc8YB---figure---FRKWKTB68WhE7C2Kh1Qm0g.png "Example of component to component communication_")
 
 ---
 
-![Component to component HL view](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---TEXutxF0pqMw3TnRP-2x5---figure---MvCQOuIZ1H4yxQZpjtQeGA.png "Component to component HL view")
+![Component to component HL view](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---rIBnwtVIeKc0hcbCF_Imy---figure---MvCQOuIZ1H4yxQZpjtQeGA.png "Component to component HL view")
 
 
 
@@ -22,11 +22,15 @@
 
 
 
-![Component to component HL view 2](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---TXI55ez1OWaXY7CBdNylz---figure---oFNwdsr3n0vFKUd9gdB58A.png "Component to component HL view 2")
+![Component to component HL view 2](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---X4oTYn8UreFLpWMaE0_A_---figure---oFNwdsr3n0vFKUd9gdB58A.png "Component to component HL view 2")
 
 
 
+![Example 1](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---S0buFGdKQEDEpoLK_AwSY---figure---Lftp0npW8UyktwK65XRw7g.png "Example 1")
 
+
+
+---
 
 
 
