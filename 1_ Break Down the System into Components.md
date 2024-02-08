@@ -2,11 +2,9 @@
 
 ![Break down the system into components](undefined "Break down the system into components")
 
-
-
 ---
 
-![Example of component to component communication_](undefined "Example of component to component communication_")
+![Example of component to component communication](undefined "Example of component to component communication")
 
 
 
@@ -14,41 +12,25 @@
 
 ![Component to component HL view](undefined "Component to component HL view")
 
-
-
 ---
 
 ![Component to component HL view 2](undefined "Component to component HL view 2")
 
-
+---
 
 ![Example 1](undefined "Example 1")
-
-
 
 ---
 
 ![Example 2](undefined "Example 2")
 
-
-
 ---
 
 ![Example 3](undefined "Example 3")
 
-
-
 ---
 
-![Example 4](undefined "Example 4")
-
----
-
-![Backend Service](undefined "Backend Service")
-
-
-
----
+![Exmple 4](undefined "Exmple 4")
 
 
 
