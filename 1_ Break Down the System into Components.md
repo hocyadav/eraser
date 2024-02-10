@@ -4,7 +4,7 @@
 
 ---
 
-![Example of component to component communication](undefined "Example of component to component communication")
+![Example of component to component communication](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---BTf_jV4d-XmhFkjkZWJQy---figure---FRKWKTB68WhE7C2Kh1Qm0g.png "Example of component to component communication")
 
 
 
@@ -14,7 +14,7 @@
 
 ---
 
-![Component to component HL view 2](undefined "Component to component HL view 2")
+![Component to component HL view 2](/.eraser/4V79kdh82LGqWONFLrwu___qnB6tOkrttS5pifXKfvMtsnVb153___---figure---a_VdKTYv_H7bVJtQL8vYM---figure---oFNwdsr3n0vFKUd9gdB58A.png "Component to component HL view 2")
 
 ---
 
